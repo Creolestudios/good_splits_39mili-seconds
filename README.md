@@ -1,5 +1,5 @@
 
-# Good Splits
+# Good Splits - 39ms
 
 
 You are given a string s.
